@@ -1,0 +1,3 @@
+@AutoInjectable
+@interface AutoInjectable {
+}
